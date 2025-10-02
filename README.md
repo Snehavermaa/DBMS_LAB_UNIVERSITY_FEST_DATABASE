@@ -46,7 +46,7 @@ The system also ensures proper access controls for **Administrators**, **Team He
 
 ## 🛠️ Tech Stack
 
-* **Database**: SQL (MySQL / PostgreSQL / Oracle)
+* **Database**: SQL 
 * **Concepts Used**:
 
   * Entity-Relationship Modeling
